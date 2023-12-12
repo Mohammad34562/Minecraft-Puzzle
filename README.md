@@ -1,2 +1,3 @@
 # Minecraft-Puzzle
-This is the README for the Minecraft Puzzle, Ignore this and just download the file.
+This is the README for the Minecraft Puzzle
+Do not download this, this is just a README on what to do
